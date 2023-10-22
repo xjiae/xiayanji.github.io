@@ -36,7 +36,7 @@ Skills
 * Frameworks
   * PyTorch, Tensorflow
 * Language
-  * English, Mandarin, Cantonese
+  * English, Mandarin, Cantonese, Teochew dialect
 
 <!-- Publications
 ======
