@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Hobbies: 
-
 ## Marathon
 I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/).
 
@@ -18,7 +16,7 @@ I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtl
 
 **Past:**
 - Philadelphia Half Marathon, 2022
-- The Love Run Half Marathon,2022
+- The Love Run Half Marathon, 2022
 - Philadelphia Marathon, 2021
 
 ## Triathlon
