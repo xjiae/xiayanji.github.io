@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiayan Ji"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiayan Ji"
 description              : &description "Ph.D. Student at University of Pennsylvania"
