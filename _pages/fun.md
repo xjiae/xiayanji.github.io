@@ -10,18 +10,20 @@ author_profile: true
 Hobbies: 
 
 ## Marathon
-I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/) XD
+I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/).
 
-Upcomming:
+**Upcomming:**
 - Indianapolis Monumental Marathon, 2023
+- Nagoya Women's Marathon, 2024
 
-Past races:
+**Past:**
 - Philadelphia Half Marathon, 2022
 - The Love Run Half Marathon,2022
 - Philadelphia Marathon, 2021
 
 ## Triathlon
-Past races:
+**Past:**
 - Women's Philadelphia Triathlon, 2022
 
 ## Painting
+[Enjoy :)](/files/artworks/portfolio.pdf)
