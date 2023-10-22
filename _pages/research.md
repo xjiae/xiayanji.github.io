@@ -42,15 +42,15 @@ Xiayan Ji, Ahhyun Yuh, Hyonyoung Choi, Amanda Watson, Claire Kendell, Xian Li, J
 Work in progress for the ACM/IEEE 14th International Conference on Cyber-Physical Systems, 2023.
 
 * [Incremental Anomaly Detection with Guarantee in the Internet of Medical Things](https://dl.acm.org/doi/pdf/10.1145/3576842.3582374).
-Xiayan Ji, Hyonyoung Choi, Oleg Sokolsky, Insup Lee
+Xiayan Ji, Hyonyoung Choi, Oleg Sokolsky, Insup Lee.
 Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation, 2023.
 
 * [Autowean: Extubation failure risk estimation for critically ill patients](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9983630).
-Jean Park, Amanda Watson, Xiayan Ji, Kyle C Quinn, James Weimer, Insup Lee
+Jean Park, Amanda Watson, Xiayan Ji, Kyle C Quinn, James Weimer, Insup Lee.
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2022.
 
 * [Pac-Wrap: Semi-supervised pac anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3534678.3539408).
-Xiayan Ji*, Shuo Li*, Edgar Dobriban, Oleg Sokolsky, Insup Lee.
+Xiayan Ji\*, Shuo Li\*, Edgar Dobriban, Oleg Sokolsky, Insup Lee.
 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
 [[GitHub]](https://github.com/xjiae/PAC-Wrap)
 

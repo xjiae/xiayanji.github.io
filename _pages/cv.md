@@ -11,32 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in in Computer and Information Science, University of Pennsylvania, 2025 (expected)
+* M.S. in Computer and Information Technology, 	University of Pennsylvania, 2020
+* B.S. in Economics and Finance, minor in Information Technology, The Hong Kong University of Science and Technology, 2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall - Summer 2020: Research Assistant
+  * University of Pennsylvania
+  * Project summary: real-time hierarchical anomaly detection at scale.
+  * Supervisor: Prof. Oleg Sokolsky and Prof. Insup Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * Cornell University
+  * Project summary: tracking the 3D position of the arm when doing exercise using a single commodity smartwatch.
+  * Supervisor: Prof. Cheng Zhang
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and Software Skills: 
+  * Python, Java, C++, C, Matlab, R, LaTeX.
+* Frameworks
+  * PyTorch, Tensorflow
+* Language
+  * English, Mandarin, Cantonese
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
