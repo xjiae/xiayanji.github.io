@@ -12,7 +12,7 @@ Hobbies:
 ## Marathon
 I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/).
 
-**Upcomming:**
+**Upcoming:**
 - Indianapolis Monumental Marathon, 2023
 - Nagoya Women's Marathon, 2024
 
