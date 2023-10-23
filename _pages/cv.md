@@ -13,26 +13,26 @@ Education
 ======
 * Ph.D in in Computer and Information Science, University of Pennsylvania, 2025 (expected)
 * M.S. in Computer and Information Technology, 	University of Pennsylvania, 2020
-* B.S. in Economics and Finance, minor in Information Technology, The Hong Kong University of Science and Technology, 2018
+* B.S. in Economics and Finance, minor in IT, The Hong Kong University of Science and Technology, 2018
 
 
 Work experience
 ======
 * Fall - Summer 2020: Research Assistant
   * University of Pennsylvania
-  * Project summary: real-time hierarchical anomaly detection at scale.
+  * Project summary: real-time hierarchical anomaly detection at scale
   * Supervisor: Prof. Oleg Sokolsky and Prof. Insup Lee
 
 * Summer 2019: Research Assistant
   * Cornell University
-  * Project summary: tracking the 3D position of the arm when doing exercise using a single commodity smartwatch.
+  * Project summary: tracking the 3D position of the arm when doing exercise using a single commodity smartwatch
   * Supervisor: Prof. Cheng Zhang
 
   
 Skills
 ======
-* Programming and Software Skills: 
-  * Python, Java, C++, C, Matlab, R, LaTeX.
+* Programming and Software Skills
+  * Python, Java, C++, C, Matlab, R, LaTeX
 * Frameworks
   * PyTorch, Tensorflow
 * Language
