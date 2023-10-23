@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Marathon
-I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/).
 
 **Upcoming:**
 - Indianapolis Monumental Marathon, 2023
@@ -18,6 +17,8 @@ I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtl
 - Philadelphia Half Marathon, 2022
 - The Love Run Half Marathon, 2022
 - Philadelphia Marathon, 2021
+
+I am running with [Philly Turtle Runners](https://www.instagram.com/philly_turtlerunners/).
 
 ## Triathlon
 **Past:**
