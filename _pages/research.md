@@ -9,9 +9,9 @@ author_profile: true
 
 * iCareLoop: detecting social isolation and loneliness in the elderly community in U.S. and Japan
 
-* Counterfactual Examples in Anomaly Detection
+* Counterfactual explanation in anomaly detection
 
-* Explanatory subgraph optimization for GNN
+* Influential node detection via anomalous interaction filtering
 
 
 
@@ -28,6 +28,10 @@ Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bern
 Submitted, 2023.
 
 ## Conference Publications
+
+* [Exploring Effective Sensing Indicators of Loneliness For Elderly Community in US and Japan](/files/papers/chiea.pdf)
+Xiayan Ji, Ahhyun Yuh, Viktor Erdélyi, Teruhiro Mizumoto, Hyonyoung Choi, Sean Lee Harrison, Emma Cho, James Weimer, Hajime Nagahara, Teruo Higashino, George Demiris, Oleg Sokolsky, Insup Lee.
+ACM CHI Conference on Human Factors in Computing Systems, 2024.
 
 *  [iCareLoop: Data Management System for Monitoring Gerontological Social Isolation and Loneliness](/files/papers/icmu.pdf).
 Xiayan Ji, Ahhyun Yuh, Hyonyoung Choi, Viktor Erdélyi, Teruhiro Mizumoto, Sean Lee Harrison, James Weimer, George Demiris, Takeshi Nakagawa, Takashi Suehiro, Yasuyuki Gondo, Hajime Nagahara, Oleg Sokolsky, Teruo Higashino, Insup Lee.
