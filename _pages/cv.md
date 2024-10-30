@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Summer 2024: Applied Scientist Intern
+  * Amazon Web Services, New York 
+  * Project summary: malicious command line detection using LLM and Abstract Syntax Tree (AST) 
+  * Supervisor: Ecenaz Erdemir and Yi Fan
+
 * Fall - Summer 2020: Research Assistant
   * University of Pennsylvania
   * Project summary: real-time hierarchical anomaly detection at scale

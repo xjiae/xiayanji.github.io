@@ -29,6 +29,10 @@ Submitted, 2023.
 
 ## Conference Publications
 
+* [AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties](/files/papers/arpro.pdf)
+Xiayan Ji\*, Anton Xue\*, Eric Wong, Oleg Sokolsky, Insup Lee.
+Neural Information Processing Systems (NeurIPS) 2024.
+
 * [Exploring Effective Sensing Indicators of Loneliness For Elderly Community in US and Japan](/files/papers/chiea.pdf)
 Xiayan Ji, Ahhyun Yuh, Viktor Erdélyi, Teruhiro Mizumoto, Hyonyoung Choi, Sean Lee Harrison, Emma Cho, James Weimer, Hajime Nagahara, Teruo Higashino, George Demiris, Oleg Sokolsky, Insup Lee.
 ACM CHI Conference on Human Factors in Computing Systems, 2024.
@@ -54,7 +58,7 @@ Jean Park, Amanda Watson, Xiayan Ji, Kyle C Quinn, James Weimer, Insup Lee.
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2022.
 
 * [Pac-Wrap: Semi-supervised pac anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3534678.3539408).
-Xiayan Ji\*, Shuo Li\*, Edgar Dobriban, Oleg Sokolsky, Insup Lee.
+Shuo Li\*, Xiayan Ji\*, Edgar Dobriban, Oleg Sokolsky, Insup Lee.
 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
 [[GitHub]](https://github.com/xjiae/PAC-Wrap)
 
