@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, Pennsylvania"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=dChT9WwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiayan-ji-b52b7117b/"
   orcid            : "http://orcid.org/0000-0002-4896-7769"
   pinterest        :
   soundcloud       :
