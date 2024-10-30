@@ -7,25 +7,10 @@ author_profile: true
 
 ## In Progress
 
-* iCareLoop: detecting social isolation and loneliness in the elderly community in U.S. and Japan
+* SMILE: Sensing and MItigating Loneliness in older adults with diffusion-based counterfactual Explanations
 
-* Counterfactual explanation in anomaly detection
+* MINA: Mining Important Nodes Using Anomalous Interaction with Uncertainty Estimates
 
-* Influential node detection via anomalous interaction filtering
-
-
-
-
-## Preprints
-
-* [GTX: Ground Truth eXplanation Dataset](/files/papers/gtx.pdf).
-Xiayan Ji, Anton Xue, Rajeev Alur, Oleg Sokolsky, Insup Lee, Eric Wong.
-Submitted, 2023.
-[[GitHub]](https://github.com/xjiae/HDDDS)
-
-* [Filtering Spurious Features for Robust Out-of-Distribution Detection](https://arxiv.org/pdf/2302.11019.pdf)
-Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bernardis, Oleg Sokolsky, Insup Lee.
-Submitted, 2023.
 
 ## Conference Publications
 
@@ -71,3 +56,13 @@ Hyonyoung Choi, Amanda Lor, Mike Megonegal, Xiayan Ji, Amanda Watson, James Weim
  IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2021.
 
 
+## Preprints
+
+* [GTX: Ground Truth eXplanation Dataset](/files/papers/gtx.pdf).
+Xiayan Ji, Anton Xue, Rajeev Alur, Oleg Sokolsky, Insup Lee, Eric Wong.
+Submitted, 2023.
+[[GitHub]](https://github.com/xjiae/HDDDS)
+
+* [Filtering Spurious Features for Robust Out-of-Distribution Detection](https://arxiv.org/pdf/2302.11019.pdf)
+Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bernardis, Oleg Sokolsky, Insup Lee.
+Submitted, 2023.
