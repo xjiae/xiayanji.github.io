@@ -1,0 +1,22 @@
+.paper-entry {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2em;
+  }
+  
+  .paper-image {
+    max-width: 150px;
+    margin-right: 20px;
+    border-radius: 5px; /* Optional for rounded corners */
+  }
+  
+  .paper-entry h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+  
+  .paper-entry p {
+    margin: 0;
+    line-height: 1.5;
+  }
+  
