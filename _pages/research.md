@@ -103,7 +103,7 @@ Submitted, 2023.<br>
 <img src="/files/images/ood-detection.png" alt="OOD Detection Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">
 <div>
 <strong style="font-size: 18px;">Filtering Spurious Features for Robust Out-of-Distribution Detection</strong><br>
-<i>Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bernardis, Oleg Sokolsky, Insup
+<i>Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bernardis, Oleg Sokolsky, Insup Lee</i><br>
 </div>
 </div>
 
