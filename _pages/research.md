@@ -104,6 +104,8 @@ Submitted, 2023.<br>
 <div>
 <strong style="font-size: 18px;">Filtering Spurious Features for Robust Out-of-Distribution Detection</strong><br>
 <i>Ramneet Kaur, Xiayan Ji, Souradeep Dutta, Michele Caprio, Yahan Yang, Elena Bernardis, Oleg Sokolsky, Insup
+</div>
+</div>
 
 ## In Progress
 
